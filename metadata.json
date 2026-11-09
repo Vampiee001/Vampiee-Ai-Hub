@@ -1,0 +1,6 @@
+{
+  "name": "Vampiee AI - Desktop Assistant & Wealth Sync",
+  "description": "Your desktop companion AI that synchronizes all your AI models, tracks investments, grows monetization income streams, and orchestrates daily work with voice command.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
